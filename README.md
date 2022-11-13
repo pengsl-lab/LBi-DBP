@@ -9,14 +9,14 @@ Standalone packages and datasets of Bi-DBP
 - HHblits tool(http://toolkit.genzentrum.lmu.de/hhblits/)
 - Linux system (suggested CentOS 7)
 # Installation:
-- First, download compressed packages in (https://github.com/wwzll123/TPSO/tree/main/Standalone_Program)
-- second, download the FileUnion.jar in (https://github.com/wwzll123/TPSO/tree/main/FileSplit)
+- First, download compressed packages in (https://github.com/wwzll123/Bi-DBP/tree/main/Standalone_Program)
+- second, download the FileUnion.jar in (https://github.com/wwzll123/Bi-DBP/tree/main/FileSplit)
 - third, union these compressed packages using FileUnion.jar by typing the following command
 ```
-# [packages folder path] should be the path that contains files of TPSO_DBP.tar.gz_0 ~ TPSO_DBP.tar.gz_20.
-$ java -jar FileUnion.jar [packages folder path] ./TPSO_DBP.tar.gz
+# [packages folder path] should be the path that contains files of Bi-DBP.tar.gz_0 ~ Bi-DBP.tar.gz_20.
+$ java -jar FileUnion.jar [packages folder path] ./Bi-DBP.tar.gz
 ```
-- fourth, uncompress the generated file of TPSO_DBP.tar.gz.
+- fourth, uncompress the generated file of Bi-DBP.tar.gz.
 - fifth, provide executable permissions for file of './jar/tools/blast-2.2.26/blastpgp'.
 
 
@@ -61,5 +61,5 @@ HHBLITS_DB=Absolute_Path_uniclust_Installtion/uniclust30_2018_08_hhsuite/uniclus
 - All the best to you!
 
 # Reference
-[1] Jun Hu, Wen-Wu Zeng, Ning-Xin Jia, Shi-Jian Dong, Dong-Jun Yu, and Gui-Jun Zhang. Improving DNA-Binding Protein Prediction using Two-Stage Light Neural Network based on Bidirectional Long Short-Term Memory. Submitted.
+[1] Jun Hu, Wen-Wu Zeng, Yu-Xuan Tang, Bing Rao, Dong-Jun Yu, and Gui-Jun Zhang. Improving DNA-Binding Protein Prediction using Two-Stage Light Neural Network based on Bidirectional Long Short-Term Memory. Submitted.
  
