@@ -49,6 +49,7 @@ SANN_RUNNER_PATH=Absolute_Path_SANN_Installtion/SANN/sann/bin/sann.sh
 - You should make sure your query protein sequences in the file of './workFolder/seqs.fa'.
 - than, enter the following command lines on Linux System.
  ``` 
+ $ cd ./Bi-DBP-standalone
  $ python main.py
 ``` 
 - the predicted result will be generated in file of './workFolder/querys.jun_res'.
