@@ -30,7 +30,6 @@ BLAST_BIN_DIR=./jar/tools/blast-2.2.26
 BLASTPGP_EXE_PATH=./jar/tools/blast-2.2.26/blastpgp
 
 #Need change
-SANN_RUNNER_PATH=Absolute_Path_SANN_Installtion/SANN/sann/bin/sann.sh
 BLASTPGP_DB_PATH=Absolute_Path_nr_Installtion/nr
 ```
 * config.ini
@@ -42,6 +41,8 @@ BiP_HOME=Absolute_Path_BiP-DBP_Installtion/BiP_DBP
 PSIPRED_HOME=Absolute_Path_PSIPRED_Installtion/psipred321
 HHBLITS_EXE=Absolute_Path_HHsuite_Installtion/hhsuite-3.0-beta.3-Linux/bin/hhblits
 HHBLITS_DB=Absolute_Path_uniclust_Installtion/uniclust30_2018_08_hhsuite/uniclust30_2018_08/uniclust30_2018_08
+PYTHON_EXE=Your path/anaconda2/envs/python3/bin/python
+SANN_RUNNER_PATH=Absolute_Path_SANN_Installtion/SANN/sann/bin/sann.sh
  ```
  
  # Running
