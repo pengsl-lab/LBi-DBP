@@ -7,6 +7,7 @@ Standalone packages and datasets of Bi-DBP
 - NCBI nr90 database (ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/)
 - PSIPRED(psiped321) software(https://i12r-studfilesrv.informatik.tu-muenchen.de/wiki/index.php/Psipred)
 - HHblits tool(http://toolkit.genzentrum.lmu.de/hhblits/)
+- uniclust30(https://gwdu111.gwdg.de/~compbiol/uniclust/)
 - Linux system (suggested CentOS 7)
 # Installation:
 - First, download compressed packages in (https://github.com/wwzll123/Bi-DBP/tree/main/Standalone_Program)
