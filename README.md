@@ -1,5 +1,5 @@
-# Bi-DBP
-Standalone packages and datasets of Bi-DBP
+# LBi-DBP
+Standalone packages and datasets of LBi-DBP
 
 # Pre-requisite:
 - Python(3), java(1.8),numpy(1.20 or higher), pytorch(1.5 or higher)
