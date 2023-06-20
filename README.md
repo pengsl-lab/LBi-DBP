@@ -64,5 +64,5 @@ SANN_RUNNER_PATH=Absolute_Path_SANN_Installtion/SANN/sann/bin/sann.sh
 - All the best to you!
 
 # Reference
-[1] Jun Hu, Wen-Wu Zeng, Yu-Xuan Tang, Bing Rao, Dong-Jun Yu, and Gui-Jun Zhang. Improving DNA-Binding Protein Prediction using Bidirectional Long Short-Term Memory-based Sequence Context Information Feature. Submitted.
+[1] Wen-Wu Zeng1, Xuan Yu, Jun Hu, and Shao-Liang Peng. LBi-DBP, an accurate DNA-binding protein prediction method via extracting sequence context information by lightweight BiLSTM network. Submitted.
  
