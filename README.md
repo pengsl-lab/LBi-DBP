@@ -10,8 +10,8 @@ Standalone packages and datasets of LBi-DBP
 - uniclust30(https://gwdu111.gwdg.de/~compbiol/uniclust/)
 - Linux system (suggested CentOS 7)
 # Installation:
-- First, download compressed packages in (https://github.com/wwzll123/Bi-DBP/tree/main/Standalone_Program)
-- second, download the FileUnion.jar in (https://github.com/wwzll123/Bi-DBP/tree/main/FileSplit)
+- First, download compressed packages in (https://github.com/wwzll123/LBi-DBP/tree/main/Standalone_Program)
+- second, download the FileUnion.jar in (https://github.com/wwzll123/LBi-DBP/tree/main/FileSplit)
 - third, union these compressed packages using FileUnion.jar by typing the following command
 ```
 # [packages folder path] should be the path that contains files of Bi-DBP-standalone.zip_0 ~ Bi-DBP-standalone.zip_6.
