@@ -64,5 +64,5 @@ SANN_RUNNER_PATH=Absolute_Path_SANN_Installtion/SANN/sann/bin/sann.sh
 - All the best to you!
 
 # Reference
-[1] Wen-Wu Zeng, Xuan Yu, Jun Hu, and Shao-Liang Peng. LBi-DBP, an accurate DNA-binding protein prediction method via extracting sequence context information by lightweight BiLSTM network. Submitted.
+[1] Wen-Wu Zeng, Xuan Yu, Jun Hu, and Shao-Liang Peng. LBi-DBP, an accurate DNA-binding protein prediction method by lightweight interpretable BiLSTM network. Submitted.
  
